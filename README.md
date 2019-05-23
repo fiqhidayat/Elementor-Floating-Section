@@ -1,4 +1,4 @@
-=== Elementor Floating Section ===
+=== Floating Section Elementor ===
 Contributors: fiqhid24
 Tags: Elementor,Floating, Bar
 Donate link: https://paypal.me/fiqhidayat
